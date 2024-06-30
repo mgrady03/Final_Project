@@ -2,6 +2,8 @@
 
 Team Name: Team1! 
 
+Team Members: Mary Grady (mtg48@pitt.edu)
+
 Dataset Links: 
 - https://data.wprdc.org/dataset/311-data This dataset contains reports of non-emergency service requests made to the City of Pittsburgh's 311 Response Center, offering insights into infrastructure issues such as potholes, graffiti, and other public service requests across various neighborhoods.
 - https://data.wprdc.org/dataset/police-incident-blotter This dataset provides detailed records of police incidents in Pittsburgh, offering insights into crime rates and public safety issues across different neighborhoods.
